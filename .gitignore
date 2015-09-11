@@ -1,3 +1,5 @@
 .DS_STORE
 .vagrant
 dumps/*
+!dumps/exports
+dumps/exports/*
